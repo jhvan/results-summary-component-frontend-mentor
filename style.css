@@ -169,9 +169,15 @@ p {
 svg {
     padding-inline-end: 1em;
 }
-span {
-    font-weight: 800;
-    opacity: 100%;
+
+b{
+    font-weight:800;
+    padding-inline-end: .5em;
+}
+
+span{
+    font-weight:800;
+    opacity: 50%;
 }
 
 h1{
