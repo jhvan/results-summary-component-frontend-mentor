@@ -164,7 +164,6 @@ p {
     color: black;
     display: flex;
     margin-left: auto;
-    opacity: 50%;
 }
 svg {
     padding-inline-end: 1em;
