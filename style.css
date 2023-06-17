@@ -12,13 +12,17 @@
     --result2: rgb(55,43,239);
 }
 
+body {
+    font-family: "Hanken Grotesk", sans-serif;
+
+}
 @media only screen and (min-width: 600px){
 .page {
     display:flex;
     align-items: center;
     justify-content: center;
-    height: 100vh; 
-    background-color: var(--bg);  
+    height: 95vh; 
+    background-color: var(--bg); 
 }
 }
 
@@ -208,4 +212,16 @@ a.button{
 
 a.button:hover{
     background: linear-gradient(var(--result1), var(--result2));
+}
+
+.attribution {
+    font-size: .75em;
+    text-align: center;
+}
+.attribution a{
+    text-decoration: none;
+    color: var(--result2);
+}
+.attribution a:hover{
+    color: var(--result1)
 }
