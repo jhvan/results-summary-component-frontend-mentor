@@ -29,10 +29,9 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-### Screenshots
+### Screenshot
 
 ![image](/results-summary.png)
-![image](/results-summary-mobile.png)
 
 ### Links
 
