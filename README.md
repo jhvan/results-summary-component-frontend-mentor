@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-![image](/results-summary-page.png)
+![image](/results-summmary-page.png)
 
 ### Links
 
