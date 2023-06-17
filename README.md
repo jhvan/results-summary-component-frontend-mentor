@@ -32,7 +32,7 @@ Users should be able to:
 ### Screenshots
 
 ![image](/results-summary.png)
-![image](/results-summary-mobile.png
+![image](/results-summary-mobile.png)
 
 ### Links
 
